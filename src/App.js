@@ -16,9 +16,6 @@ export default function App() {
         }}
       >
         {color}
-        <br />
-        <br />
-        <br />
         <button onClick={() => setcolor(randomColor)}>Generate</button>
       </div>
     </div>
